@@ -1,0 +1,2 @@
+year,employer,wages,federal_tax_withheld,social_security_wages,medicare_wages,hsa_employer_contribution,roth_401k_contribution,traditional_401k_contribution
+2025,Acme Corporation,120000.00,22000.00,120000.00,120000.00,1500.00,5000.00,10000.00
